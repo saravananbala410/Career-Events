@@ -10,7 +10,10 @@
     margin: 10px; 
 }
     
-  
+.home{
+    background:e3cfcf;
+    height:100vh;
+ }
   .event-image {
     width: 100%;
     height: auto;

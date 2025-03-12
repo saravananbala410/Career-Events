@@ -12,11 +12,12 @@
     
 .home {
     background: #e3cfcf;
-    height: 100vh;
+    height: 100vh; /* Full height of the viewport */
+    width: 100vw;  /* Full width of the viewport */
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center; /* Corrected this line */
+    align-items: center; /* Center items both vertically and horizontally */
 }
   .event-image {
     width: 100%;

@@ -10,10 +10,14 @@
     margin: 10px; 
 }
     
-.home{
-    background:e3cfcf;
-    height:100vh;
- }
+.home {
+    background: #e3cfcf;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; /* Corrected this line */
+}
   .event-image {
     width: 100%;
     height: auto;
